@@ -18,6 +18,10 @@ public class GitTest {
         System.out.println("hot-fix2222");
         System.out.println("hot-fix2222");
         System.out.println("hot-fix2222");
+        System.out.println("new new new");
+        System.out.println("new new new");
+        System.out.println("new new new");
+        System.out.println("new new new");
     }
 }
 
