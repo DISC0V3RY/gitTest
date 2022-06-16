@@ -8,20 +8,8 @@ package com.atdiscovery;
 public class GitTest {
     public static void main(String[] args){
         System.out.println("hello gitgit");
-        System.out.println("nihaonihao");
-        System.out.println("master");
-        System.out.println("master222");
-        System.out.println("master222");
-        System.out.println("master222");
-        System.out.println("master222");
-        System.out.println("hot-fix");
-        System.out.println("hot-fix2222");
-        System.out.println("hot-fix2222");
-        System.out.println("hot-fix2222");
-        System.out.println("new new new");
-        System.out.println("new new new");
-        System.out.println("new new new");
-        System.out.println("new new new");
+        System.out.println("pull pull pull");
+        System.out.println("pull pull pull");
     }
 }
 
