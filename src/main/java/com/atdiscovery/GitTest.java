@@ -8,7 +8,7 @@ package com.atdiscovery;
 public class GitTest {
     public static void main(String[] args){
         System.out.println("hello gitgit");
-
+        System.out.println("nihaonihao");
     }
 }
 
